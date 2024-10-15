@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body
+{
+    background-color: rgb(86, 175, 235);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.calculadora{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(87, 166, 235);
+    opacity: 85%;
+    border-radius: 15px;
+    padding: 15px;
+    position: absolute;
+    top: 25%;
+}
+
+.calculadora h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+#resultado{
+    margin: 5px;
+    height: 30px;
+    width: 220px;
+    border-radius: 3px;
+    background-color: white;
+    font-size: 25px;
+    color: black;
+    text-align:right ;
+    padding-bottom: 34px;
+    padding-right: 9px;
+}
+
+.botao{
+    width: 50px;
+    height: 50px;
+    border: none;
+    margin: 2px;
+    color: aliceblue;
+    background-color: rgb(53, 52, 52);
+}
+
+.botao:hover{
+    background-color: rgb(31, 31, 31);
+    cursor: pointer;
+}
+
+.v-na{
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    top: 47%;
+    left: 81%;
+}
+
+.v-na:hover{
+    cursor: pointer;
+}
+
+.btn{
+    display: flex;
+    width: 60px;
+    height: 60px;
+}
+
+.ambiente{   
+    position: absolute;
+    top: 67%;
+    left: 75%;
+}
+
+.amb{
+    background-color: transparent;
+    border: none;
+    width: 55px;
+    height: 55px;
+}
+
+.ambiente2{
+    position: absolute;
+    top: 67%;
+    left: 65%;
+}
+
+.amb2{
+    background-color: transparent;
+    border: none;
+    height: 50px;
+    width: 55px;
+}
+
+footer{
+    background-image: url(/img/chao_fundo.webp);
+    height: 5%;
+    position: absolute;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    bottom: 0;
+}
