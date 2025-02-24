@@ -1,0 +1,24 @@
+Regras de Negócio
+
+São as diretrizes, condições ou critérios que orientam as operações e decisões dentro de uma organização. Elas determinam como os processos devem ser realizados para garantir que a empresa funcione de maneira eficaz e de acordo com as políticas estabelecidas.
+
+Exemplo: Uma regra de negócios em um sistema de vendas pode ser que "um pedido só pode ser enviado se o pagamento foi aprovado".
+Objetivos
+
+Os objetivos são os resultados específicos que uma empresa ou organização deseja alcançar em um período de tempo determinado. Esses objetivos são essenciais para direcionar as ações e decisões de negócios.
+
+Exemplo: Um objetivo pode ser "aumentar as vendas em 10% no próximo trimestre".
+Definição
+
+A definição de regras de negócios, por exemplo, está relacionada a detalhar claramente o que deve ser feito e como. As regras de negócios podem ser definidas para qualquer área da empresa: financeiro, vendas, TI, etc.
+
+Exemplo de definição de uma regra de negócios: "O sistema deve garantir que um cliente não possa realizar uma compra com um cartão de crédito expirado."
+Estrutura
+
+A estrutura das regras de negócios pode ser composta por diferentes elementos, como:
+
+    Ação: O que deve acontecer (ex.: "Cancelar a venda").
+    Condição: Quando a ação deve ocorrer (ex.: "Se o pagamento não for aprovado").
+    Resultado Esperado: O que a organização espera ao seguir a regra (ex.: "Evitar que pedidos fraudulentos sejam enviados").
+
+Esses componentes ajudam a garantir que as operações ocorram de maneira consistente e controlada.
